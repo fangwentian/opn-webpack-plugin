@@ -1,6 +1,6 @@
 {
   "name": "opn-webpack-plugin",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/fangwentian/opn-webpack-plugin#readme",
   "devDependencies": {
-    "lodash": "^4.17.4"
+    "opn": "^5.1.0"
   }
 }
