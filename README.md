@@ -37,6 +37,6 @@ Default: http://localhost:8000
 #### options
 Type: Object  
 Default: {}  
-Same with options in opn. The plugin will open website with: ***opn(target, options)***, so you can pass any valid options in opn to the plugin.  
+Same with options in opn. The plugin will open website with: *opn(target, options)*, so you can pass any valid options in opn to the plugin.  
 
 
