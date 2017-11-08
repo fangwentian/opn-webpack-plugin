@@ -1,5 +1,5 @@
 const opn = require('opn');
-const _ = require('loadash');
+const _ = require('lodash');
 
 // opnOptions：传给opn的配置
 function OpnPlugin(opnOptions) {
