@@ -1,5 +1,5 @@
 # opn-webpack-plugin
-A plugin for webpack to open resource when complie is done. It's useful for developers, open your website when it's ready.
+A plugin for webpack to open resource when complie is done, based on [opn](https://github.com/sindresorhus/opn). It's useful for developers, open your website when it's ready.
 > As this plugin is based on opn, so you can open any resources that opn support.
 
 #### Installation
